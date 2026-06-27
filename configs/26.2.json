@@ -17,7 +17,7 @@
             "minecraft_version_range": [
                 "~26.2"
             ]
-        },
+        }, 
         "cloth_config_version": null,
         "mod_artifact_minecraft_ver": "26.2",
         "neoform_version": "26.2-1"
