@@ -9,8 +9,6 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Sync to CNB Repository
-        uses: docker://tencentcom/git-sync
         env:
           PLUGIN_TARGET_URL: "https://cnb.cool/187J3X1-114514/mc-superresolution.git"
           PLUGIN_AUTH_TYPE: "https"
